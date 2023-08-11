@@ -4,7 +4,7 @@
 import java.io.*;
 import java.util.*;
 
-  public class GFG {
+  public class binary_search {
     public static void main(String[] args) throws IOException {
         Scanner sc = new Scanner(System.in);
         int T = sc.nextInt();
