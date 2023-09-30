@@ -3,7 +3,6 @@ from typing import List
 
 class Solution:
     def convertToWave(self, n : int, a : List[int]) -> None:
-        # code here
         
         for i in range(0, len(a)-1, 2):
     
